@@ -11,5 +11,6 @@ public class abc {
     public void version()
     {
         //tt
+        String x;
     }
 }
